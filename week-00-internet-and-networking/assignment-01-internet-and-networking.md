@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+A protocol is a set of rules that allows devices to communicate and exchange information correctly over a network. I also learned that different protocols have different purposes, such as delivering web pages securely or ensuring data reaches its destination accurately.
 
 ---
 
@@ -59,7 +59,9 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When someone visits **epicreads.com**, their request is broken into small pieces called **packets** through a process known as **packet switching**. These packets travel across different networks and are reassembled when they reach the web server hosted in Finland.
+
+Every device connected to the internet has an **IP address**, which acts like a digital home address, allowing data to reach the correct destination. The **TCP/IP** protocol suite ensures the packets are delivered accurately, in the correct order, and without errors. Once the connection is established, **HTTP** or the more secure **HTTPS** protocol is used to request and deliver the website's pages. Together, these technologies allow users anywhere in the world to access EpicReads quickly, reliably, and securely.
 
 ---
 
@@ -102,18 +104,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML, CSS, JavaScript
+* React
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js (Express)
+* Java Spring Boot
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* PostgreSQL
 
 ---
 
@@ -142,7 +144,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+The **Domain Name System (DNS)** translates human-friendly domain names, such as **epicreads.com**, into IP addresses that computers use to locate servers on the internet. To connect **epicreads.com** to the server with the IP address **52.172.142.222**, an **A record** should be used because it maps a domain name directly to an IPv4 address. This allows users to access the website using an easy-to-remember domain instead of a numerical IP address.
 
 ---
 
@@ -235,20 +237,17 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
-
+The networking concepts were familiar because of my previous cloud computing and DevOps studies. This assignment helped reinforce foundational knowledge while giving me another opportunity to explain the concepts in simple terms.
 ---
 
 ### What was difficult?
 
-Add your answer here...
-
+The most challenging part was simplifying technical concepts without losing accuracy. Explaining networking in beginner-friendly language required careful thought.
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
-
+Next week, I will continue strengthening my documentation skills, create clearer diagrams, and focus on explaining technical concepts more confidently while maintaining practical, hands-on learning.
 ---
 
 ## 📌 About DMI & CloudAdvisory

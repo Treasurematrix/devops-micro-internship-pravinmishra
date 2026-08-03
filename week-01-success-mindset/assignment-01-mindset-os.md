@@ -169,7 +169,7 @@ Looking back, her success was not defined by how quickly she changed careers but
 
 Paste your link here:
 
-`https://www.linkedin.com/posts/chioma-nwosu-878788143_careertransition-cloudcomputing-devops-ugcPost-7490081684361650176-xkCB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLSBtwB-QIbIm4359qMpRmDY8MP58tJ5i4`
+`https://www.linkedin.com/posts/chioma-nwosu-878788143_careertransition-cloudcomputing-devops-ugcPost-7490081684361650176-xkCB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLSBtwB-QIbIm4359qMpRmDY8MP58tJ5i4 `
 
 ---
 
