@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Chioma Margaret Nwosu |
+| **LinkedIn** | [Chioma Nwosu](https://www.linkedin.com/in/chioma-nwosu-878788143/) |
+| **Location** | PortHarcourt, Nigeria |
+| **Background** | I am a Cloud Engineer with a background in Applied Biochemistry who transitioned into cloud computing through professional training, industry certifications, and hands-on projects. I have practical experience working with AWS, Terraform, CloudFormation, Docker, Kubernetes, and CI/CD in real-world cloud infrastructure projects. |
+| **Goal** | To build a successful career as a Cloud Engineer by designing secure, scalable cloud solutions while continuously expanding my expertise in AWS, DevOps, and cloud-native technologies. |
 
 ---
 
@@ -166,3 +166,4 @@ If you found this repo useful or want to follow my DevOps journey:
 - 🔗 Connect with me on [LinkedIn](#)
 - 🌐 Learn more about the program: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
 - 💬 Join the community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
+ 
