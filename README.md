@@ -67,8 +67,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Your stack**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+ Week 00 → Internet & Networking Basics
+ [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
  Week 01 → Success Mindset 
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
@@ -129,7 +129,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ⏳ Pending | https://www.linkedin.com/posts/chioma-nwosu-878788143_devops-cloudcomputing-aws-activity-7490734865529774080-Rss0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLSBtwB-QIbIm4359qMpRmDY8MP58tJ5i4 | — |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |

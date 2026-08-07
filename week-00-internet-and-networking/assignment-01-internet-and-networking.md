@@ -25,10 +25,11 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/ChatGPT-Prompt.png)
 
+![Task 1 Screenshot](screenshots/ChatGPT-Response1.png)
 
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
+![Task 1 Screenshot](screenshots/ChatGPT-Response2.png)
 
 ---
 
@@ -93,10 +94,10 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/2-tier-Architecture.drawio.png)
 
+![Application Architecture Diagram](screenshots/3-tier-Arch.drawio.png)
 
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -180,10 +181,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
-
-
-Replace `task-5-vscode.png` with your actual screenshot file name.
+![VS Code Setup Screenshot](screenshots/vscode.png)
 
 ---
 
@@ -220,8 +218,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
-```
+https://www.linkedin.com/posts/chioma-nwosu-878788143_devops-cloudcomputing-aws-activity-7490734865529774080-Rss0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLSBtwB-QIbIm4359qMpRmDY8MP58tJ5i4```
 
 ---
 
@@ -229,8 +226,67 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+🔄 Revisiting the Foundations: Strengthening My DevOps Journey
 
+
+
+"One thing I have learned during my transition into Cloud and DevOps is that strong engineers never outgrow the fundamentals. As part of my DMI Self-Paced Learning journey, I revisited core networking concepts—not because they were new, but because deeper understanding creates stronger engineering decisions."
+
+
+
+Here's what I worked on this week:
+
+🤖 Using AI as a Learning Partner
+
+I practised writing effective prompts to better understand networking concepts. Instead of asking for quick answers, I focused on getting beginner-friendly explanations with practical examples. It reminded me that the quality of the answers we receive often depends on the quality of the questions we ask.
+
+
+
+🌐 Internet & Networking
+
+I strengthened my understanding of how users anywhere in the world can access a website through packet switching, IP addresses, TCP/IP, and HTTP/HTTPS. These concepts form the foundation of reliable communication across the internet.
+
+
+
+🏗️ Application Architecture
+
+I compared two-tier and three-tier architectures and explored the role of each layer:
+
+Frontend – where users interact with the application
+
+Backend – where business logic is processed
+
+Database – where information is stored and managed
+
+Understanding how these components work together is essential for designing scalable and maintainable systems.
+
+
+
+🌍 Domain Name System (DNS)
+
+I learned how DNS translates human-friendly domain names into IP addresses, making websites easy to access while allowing computers to communicate efficiently. I also reinforced my understanding of DNS records, particularly how an A record maps a domain to an IPv4 address.
+
+
+
+💻 Development Environment
+
+I verified my Visual Studio Code environment, terminal setup, and workflow to ensure I'm ready for the hands-on projects ahead.
+
+
+
+My Biggest Takeaway
+
+This week reminded me that strong engineers don't skip the fundamentals. Understanding why technologies work is just as important as knowing how to use them. Every advanced cloud solution is built on these core networking principles, and strengthening them now will make me a better Cloud and DevOps Engineer in the future.
+
+I'm excited to continue this journey, build more projects, document my progress, and keep learning one step at a time.
+
+
+
+**P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Treasurematrix.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+
+
+
+#DevOps #CloudComputing #AWS #Networking #Infrastructure #LearningInPublic #GitHub #TechJourney #ContinuousLearning #WomenInTech #DMI #PravinMishra
 ---
 
 # Reflection – Week 0
